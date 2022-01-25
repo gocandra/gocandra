@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Gabriel
+
+For the past two years I've designed, led and delivered the backend for [UMA health](https://umasalud.com/). I've also worked on computer vision applied to proof of life and detection of ailments, such as predicting if a selfie belongs to a diabetic.
 
 <!--
 **gocandra/gocandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
